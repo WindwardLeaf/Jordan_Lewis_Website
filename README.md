@@ -1,1 +1,3 @@
-# Jordan_Lewis_Website
+# Jordan Lewis Personal Website
+
+www.jordanallenlewis.me
